@@ -1,0 +1,14 @@
+{
+  "name": "aws-parameter-rainbow",
+  "version": "1.0.0",
+  "description": "Script seeding of AWS Parameter Store values",
+  "main": "index.js",
+  "author": "James Macfie <james@macfie.co.nz>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "chalk-animation": "^1.3.0",
+    "minimist": "^1.2.0",
+    "shelljs": "^0.7.8"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"/some/parameter/key/here": "80",
+	"/some/secret/parameter/key/here": {
+		"value": "hello-i-am-secret",
+		"type": "SecureString"
+	}
+}
