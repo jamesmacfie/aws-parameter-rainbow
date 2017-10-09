@@ -1,5 +1,7 @@
 # AWS Parameter Rainbow
 
+![OMG it's a rainbow!](logo.png)
+
 Setting environment variables via the AWS UI is a right PITA. This script makes it slightly easier.
 
 It uses [aws-vault](https://github.com/99designs/aws-vault) behind the scenes so you'll want to have that setup.
